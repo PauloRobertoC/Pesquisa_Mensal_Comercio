@@ -1,5 +1,5 @@
 # Pesquisa_Mensal_Comercio
-Analise de Conjuntura 
+# Analise de Conjuntura 
 Recentemente, tive a oportunidade de explorar a PMC - Pesquisa Mensal de Comércio, utilizando a API do IBGE a partir da linguagem R. Gostaria de compartilhar algumas descobertas interessantes!
 
 Coletando os dados:
