@@ -1,8 +1,5 @@
-# CURSO: Análise de Conjuntura usando R e Python - Análise Macro
-# AULA: Coleta e tratamento de dados das Vendas do Comércio
-# INFORMAÇÔES: saiba mais sobre a Pesquisa Mensal de Comércio (PMC/IBGE) no link
 # https://www.ibge.gov.br/estatisticas/economicas/comercio/9227-pesquisa-mensal-de-comercio.html
-# AUTOR: Fernando da Silva/Cientista de dados
+# AUTOR: Paulo Roberto Carneiro de Sá - Analista de Dados
 
 getwd()
 
